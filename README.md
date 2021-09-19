@@ -6,7 +6,7 @@ To get the best results(Better visualisations in Kibana) please run the code on 
 
 Below are the steps to run the code on both Docker Container as well as Local Machine
 
-## Steps to run on Docaker
+## Steps to run on Docker
 Step 1 - Clone the repo
 ```git clone https://github.com/Akshat1903/zenatix-task.git```
 
